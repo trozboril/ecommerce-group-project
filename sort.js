@@ -1,3 +1,5 @@
+//sorting the webpage
+
 $(document).ready(function (){
 	console.log('sanity');
 

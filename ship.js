@@ -1,3 +1,4 @@
+//checkbox for copying shipping info text to billing info text.
 $(document).ready(function(){
 
 var checkNum = 1;
